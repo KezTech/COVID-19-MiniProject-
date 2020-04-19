@@ -20,6 +20,14 @@ CREATE TABLE `selftest`.`covid` ( `id` INT(20) NOT NULL AUTO_INCREMENT , `name` 
 *******File FLow Screenshot*******
 ![covid-19 Project File Mapping](https://user-images.githubusercontent.com/38223934/79701739-3521e680-82bf-11ea-8d67-b890b6b03c89.png)
 
-****************************************************************************************************************************
 
-*************************************************Screen Shots **************************************************************
+***** Screen Shots *****
+
+
+![01](https://user-images.githubusercontent.com/38223934/79701771-816d2680-82bf-11ea-826f-787768594af1.png)
+![02](https://user-images.githubusercontent.com/38223934/79701772-84681700-82bf-11ea-9ca6-650a7c92002f.png)
+![03](https://user-images.githubusercontent.com/38223934/79701775-87fb9e00-82bf-11ea-8c74-bb13b2d9b497.png)
+![04](https://user-images.githubusercontent.com/38223934/79701777-892ccb00-82bf-11ea-9ebd-99f00872e85c.png)
+![05](https://user-images.githubusercontent.com/38223934/79701778-8a5df800-82bf-11ea-928b-e4fadece7847.png)
+
+![07](https://user-images.githubusercontent.com/38223934/79701780-8df17f00-82bf-11ea-80b2-172e01f09fed.png)
